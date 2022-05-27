@@ -1,5 +1,5 @@
 function entrar(){
-    var nome = window.prompt('Qual ´w o nome do aluno(a)?')
+    var nome = window.prompt('Qual é o nome do aluno(a)?')
     var n1 = Number(window.prompt(`Primeira nota de ${nome}:`))
     var n2 = Number(window.prompt(`Segunda nota de ${nome}:`))
     var res = document.getElementById('res')
